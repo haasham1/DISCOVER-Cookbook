@@ -7,8 +7,9 @@ DISCOVER/_tags/
 
 # For people using venv
 .venv
-.env
 venv/
 
 # in case of using pyenv
 .python-version
+config.bat
+node_modules
